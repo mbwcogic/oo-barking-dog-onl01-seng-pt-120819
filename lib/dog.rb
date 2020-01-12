@@ -5,7 +5,6 @@ class Dog
   def name
     @this_dogs_name
   end
-end
 end 
-fido = dog.new 
-fido.name = "Fido"
+#fido = dog.new 
+#fido.name = "Fido"
